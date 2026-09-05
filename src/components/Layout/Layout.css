@@ -1,0 +1,9 @@
+.layout {
+  flex: 1;
+  padding: 48px 24px;
+}
+
+.layout__container {
+  max-width: 700px;
+  margin: 0 auto;
+}
